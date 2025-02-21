@@ -1,4 +1,4 @@
-package top_hundred_interview_questions.eazy.strings;
+package ru.bykov.leetcode.season_one.top_hundred_interview_questions.eazy.strings;
 
 public class ImplementStrStr {
 
